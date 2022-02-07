@@ -7,6 +7,7 @@ html {
   }
   
   body {
+    margin: 0 auto;
     /*margin: 0;
     padding: 0;
     display:flex;*/
@@ -43,7 +44,7 @@ html {
     position: relative;
     font-size: 0;
     overflow: hidden;
-    margin-left: 263px;
+    margin: 0 auto;
   }
   
   /* This css is only applied when fullscreen is active. */
@@ -248,6 +249,9 @@ html {
     color: white;
     font-size: 25px;
     margin-left: 16px;
+  }
+  footer {
+    margin: 0 auto;
   }
   .footer {
     margin-left: 271px;
